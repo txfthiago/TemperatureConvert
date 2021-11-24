@@ -1,0 +1,30 @@
+body {
+  background: rgb(238, 166, 166);
+  
+}
+.container{
+  text-align: center;
+  padding: 5rem;
+}
+
+.insertInput{
+  text-align: center;
+  
+}
+
+.insertInput input{
+  border-radius: .4rem;
+  padding: .5rem;
+}
+
+.button{
+  text-align: center;
+  padding: .8rem;
+
+
+}
+
+.button #envioDeDados{
+  padding: .6rem;
+  border-radius: .5rem;
+}
